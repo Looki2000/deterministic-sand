@@ -6,7 +6,7 @@ This is a simple prototype of deterministic sand simulation. It allows to map a 
 
 ## How do I use it?
 
-You can just run `main.py` and watch the simulation capture I prepared for you or you can change `mapping_mode` to `True` inside `main.py`, run the code, draw sand with your mouse, change it back to `False` and run the code again to see the simulation reproduce the image with your previous mouse movements.
+You can just run `main.py` and watch the simulation capture I prepared for you or you can change `mapping_mode` to `True` inside `main.py`, run the code, draw sand with your mouse, press `m` key after the sand settles, change it back to `False` and run the code again to see the simulation reproduce the image with your previous mouse movements.
 
 ## License
 
