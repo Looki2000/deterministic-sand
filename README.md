@@ -10,6 +10,6 @@ You can just run `main.py` and watch the simulation capture I prepared for you o
 
 ## License
 
-All code is licensed under MIT license. See CODE_LICENSE file for more information.
-
 All images and values inside .npy numpy array files with `_texture` in their names are copyright Looki2000 and cannot be used for anything outside this project without my permission except in forks of this repository.
+
+Other files including code are licensed under MIT license. See CODE_LICENSE file for more information.
